@@ -38,6 +38,14 @@ yarn start
 
 Once the application is running, users can interact with the chatbot by typing messages into the input field and pressing Enter. The chatbot will then respond with relevant information based on the user's query.
 
+Key Features
+*Natural Language Understanding (NLU): Understands user intent, tone, and context.
+*Machine Learning: Improves over time by learning from past conversations.
+*Personalization: Provides tailored responses based on user data/history.
+*Multi-channel support: Works on websites, apps, WhatsApp, Messenger, etc.
+*Automation: Handles FAQs, customer support, bookings, transactions, etc.
+*24/7 Availability: Always active, reducing human workload.
+
 ## Gemini API Integration
 
 AI Chat Bot is integrated with the Gemini API to provide AI-powered responses. You need to sign up for the Gemini API and obtain an API key to use the chatbot functionality.
@@ -55,3 +63,4 @@ Contributions are welcome! If you'd like to contribute to AI Chat Bot, please fo
 
 ## Live Link
 -https://ai-chat-gpt.netlify.app/
+
